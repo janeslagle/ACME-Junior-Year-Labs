@@ -1,2 +1,2 @@
 # ACME-Junior-Year-Labs
-Junior year projects for the Applied and Computational Math Program at BYU. Completed during the 2021-2022 school year. All code is written in Python except for two in SQL.  
+Junior year projects for the Applied and Computational Math Program at BYU. All code is written in Python except for two in SQL.  
